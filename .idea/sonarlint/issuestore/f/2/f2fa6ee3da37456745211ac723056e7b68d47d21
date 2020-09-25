@@ -1,0 +1,13 @@
+
+S
+java:S1197"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ
+W
+java:S1854
+"ARemove this useless assignment to local variable "updatedv2List".(“û‘
+H
+java:S1481
+"2Remove this unused "updatedv2List" local variable.(“û‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“–Âæùÿÿÿÿ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùï¾ÿÿÿÿÿ
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹‘Ü›8‹¡‘øË.

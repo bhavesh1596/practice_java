@@ -1,0 +1,12 @@
+
+E
+java:S1148#"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¹ÆÙÃÈ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÀºö8ÁßÒÃÈ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚äƒ8¤ĞÏØÈ.
+
+java:S1130
+"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Éø·°øÿÿÿÿ8ÅÜÖÃÈ.
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(Éø·°øÿÿÿÿ8ÎêÌÃÈ.
+W	java:S125"<This block of commented-out lines of code should be removed.(ƒÜ¯58ÿçÅØÈ.

@@ -1,0 +1,20 @@
+
+Q
+java:S3740;"/Provide the parametrized type for this generic.(îèŒÁúÿÿÿÿ8ğ¤©€Ì.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ¼ˆğ
+Q
+java:S3740!"/Provide the parametrized type for this generic.(îèŒÁúÿÿÿÿ8ğ¤©€Ì.
+W	java:S125"<This block of commented-out lines of code should be removed.(‡Â¼|8ğ¤©€Ì.
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(Ö—»Äúÿÿÿÿ8ÏøÌ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(»«¡œüÿÿÿÿ8ğ¤©€Ì.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(¹â†÷8ğ¤©€Ì.
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(ÿƒ®ë8‰ÁóÌ.
+X	java:S1253"<This block of commented-out lines of code should be removed.(ÙÑ½8§ê¼Ì.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(¶¡Şûÿÿÿÿ8çÆŠÌ.
+P
+java:S1481="3Remove this unused "ldapCustomerID" local variable.(Ğ„ğÀ8‘üÆ€Ì.
+k
+java:S11922"IDefine a constant instead of duplicating this literal "{msisdn}" 3 times.(Øºù©şÿÿÿÿ8Î»µÌ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢’†Œÿÿÿÿÿ8ğ¤©€Ì.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(‰€Èù8çà¿Ì.

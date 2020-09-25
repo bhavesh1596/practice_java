@@ -1,0 +1,60 @@
+
+m
+java:S1301a"KReplace this "switch" statement by "if" statements to increase readability.(ÇƒÄ£ıÿÿÿÿ8™Ğ„â·.
+[	java:S106‰"9Replace this use of System.out or System.err by a logger.(çî¶øÿÿÿÿ8Ñ«‹â·.
+E
+java:S1148I"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8µ¾Úâ·.
+V
+java:S1144O"9Remove this unused private "printAllConstructors" method.(ÜÀÕğ8é¤äâ·.
+E
+java:S1148g"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8úå‰â·.
+E
+java:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ü­ã·.
+a
+java:S2147-"DCombine this catch with the one at line 43, which has the same body.(åşáÿ8Ü­ã·.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(°Ä˜ğúÿÿÿÿ8æ™—ã·.
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(ËÀèƒıÿÿÿÿ8–Æëá·.
+X	java:S125`"<This block of commented-out lines of code should be removed.(¶‡êš8²»ã·.
+W
+java:S1141>"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8éıàâ·.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯êãòøÿÿÿÿ8¸şéâ·.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÄéûüÿÿÿÿ8Ú‡åâ·.
+U	java:S106h"9Replace this use of System.out or System.err by a logger.(ÁÍş¹8‘Ñ‹â·.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±íÚ•8æ›Èá·.
+W
+java:S1141%"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ü­ã·.
+E
+java:S1148A"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8éıàâ·.
+E
+java:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ü­ã·.
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ãâùãüÿÿÿÿ8Ûœšâ·.
+m
+java:S2259"KA "NullPointerException" could be thrown; "toUpdateModel" is nullable here.(ÊÄéûüÿÿÿÿ8ù«æâ·.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×î™Üúÿÿÿÿ8ƒİ›ã·.
+a
+java:S2147D"DCombine this catch with the one at line 64, which has the same body.(åşáÿ8éıàâ·.
+a
+java:S2147B"DCombine this catch with the one at line 64, which has the same body.(Å¡ß8éıàâ·.
+E
+java:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8éıàâ·.
+?
+java:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+E
+java:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8û¹ôâ·.
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(çÌ¶ë8ÑŞöá·.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(óÅŠÊÿÿÿÿÿ8Ü­ã·.
+U	java:S106q"9Replace this use of System.out or System.err by a logger.(äœí‡8¼ôá·.
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(ÒÉâÒ
+<	java:S131{""Add a default case to this switch.(é¼…üÿÿÿÿ
+U	java:S106t"9Replace this use of System.out or System.err by a logger.(¦·ó8¤¹çá·.
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+Q
+java:S3740="/Provide the parametrized type for this generic.(—ß½úÿÿÿÿ8µ¾Úâ·.
+W	java:S125K"<This block of commented-out lines of code should be removed.(»ùÅ)8é¤äâ·.
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(Â—»Î8ÈáÛâ·.
+E
+java:S1148E"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8éıàâ·.
+C	java:S131a""Add a default case to this switch.(ÇƒÄ£ıÿÿÿÿ8™Ğ„â·.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†²öÌùÿÿÿÿ8ìô‡øË.

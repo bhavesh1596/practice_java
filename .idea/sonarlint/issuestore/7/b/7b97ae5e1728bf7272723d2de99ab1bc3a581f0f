@@ -1,0 +1,27 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÖÅœ€
+E
+java:S3740%"/Provide the parametrized type for this generic.(ç¤—”
+E
+java:S3740%"/Provide the parametrized type for this generic.(ç¤—”
+J
+java:S3740$"/Provide the parametrized type for this generic.(·µœÈûÿÿÿÿ
+<
+java:S1168J"&Return an empty array instead of null.(¥¹ï
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡§î­øÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆËÑòýÿÿÿÿ
+k	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á‚Ýýÿÿÿÿ
+k	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÀŸÎÿÿÿÿÿ
+J
+java:S3740("/Provide the parametrized type for this generic.(ÔöŠÿÿÿÿÿ
+Y
+java:S2259?"C"NullPointerException" will be thrown when invoking method "hex()".(ˆÓ¨Ã
+S	java:S106="9Replace this use of System.out or System.err by a logger.(‰æÆçùÿÿÿÿ
+T
+java:S4719:">Replace charset name argument with StandardCharsets.ISO_8859_1(¨¾ïƒ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Õöî 
+<
+java:S1168U"&Return an empty array instead of null.(¥¹ï
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ªÎôþÿÿÿÿ8÷¼‚øË.

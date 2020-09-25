@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾•»šüÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦Ñ™
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢Ï´Åşÿÿÿÿ
+O
+java:S2864$"4Iterate over the "entrySet" instead of the "keySet".(¸Õ„›ùÿÿÿÿ
+s	java:S135$"YReduce the total number of break and continue statements in this loop to use at most one.(¸Õ„›ùÿÿÿÿ
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÀ³üÿÿÿÿ8ÂÒøË.

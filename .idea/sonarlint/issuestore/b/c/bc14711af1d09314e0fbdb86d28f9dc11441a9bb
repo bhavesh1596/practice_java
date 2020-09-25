@@ -1,0 +1,23 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×Ô›¾8ÿŒíÿ·.
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(Â†‘Ìüÿÿÿÿ8ùÏáÿ·.
+J
+java:S4925H"-Remove this "Class.forName()", it is useless.(ùíÄé8§¯Æÿ·.
+c
+java:S2259"AA "NullPointerException" could be thrown; "con" is nullable here.(È‰È×ıÿÿÿÿ8É®İÿ·.
+r	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó§×íÿÿÿÿÿ8§¯Æÿ·.
+E
+java:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8É²´ÜÈ.
+E
+java:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8É²´ÜÈ.
+E
+java:S1148L"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8§¯Æÿ·.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·Ğ “8ÍÜÿ·.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ø×à8ãíÿ·.
+T
+java:S2589"7Remove this expression which always evaluates to "true"(³¯÷ö8ùÏáÿ·.
+E
+java:S1148="#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8É²´ÜÈ.
+r	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¤¯æùÿÿÿÿ8§¯Æÿ·.
+m	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûæğü8§¯Æÿ·.
