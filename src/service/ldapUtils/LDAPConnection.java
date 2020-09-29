@@ -13,9 +13,9 @@ public class LDAPConnection {
         DirContext connection = null;
         Properties env = new Properties();
         env.put(Context.INITIAL_CONTEXT_FACTORY, "com.sun.jndi.ldap.LdapCtxFactory");
-        env.put(Context.PROVIDER_URL, "ldap://XXX:XXX");
-        env.put(Context.SECURITY_PRINCIPAL, "uid=X,ou=People,dc=du,dc=ae");
-        env.put(Context.SECURITY_CREDENTIALS, "XX");
+        env.put(Context.PROVIDER_URL, "ldap://172.24.245.138:3389");
+        env.put(Context.SECURITY_PRINCIPAL, "uid=tqcadmin,ou=People,dc=du,dc=ae");
+        env.put(Context.SECURITY_CREDENTIALS, "Test12345");
         try {
              connection = new InitialDirContext(env);
             System.out.println("tqcMajorDuLDAPConnection! " + connection);
@@ -41,9 +41,9 @@ public class LDAPConnection {
         DirContext connection = null;
         Properties env = new Properties();
         env.put(Context.INITIAL_CONTEXT_FACTORY, "com.sun.jndi.ldap.LdapCtxFactory");
-        env.put(Context.PROVIDER_URL, "ldap://XX:XX");
-        env.put(Context.SECURITY_PRINCIPAL, "uid=X,ou=People,dc=du,dc=ae");
-        env.put(Context.SECURITY_CREDENTIALS, "XXX");
+        env.put(Context.PROVIDER_URL, "ldap://172.24.245.138:3389");
+        env.put(Context.SECURITY_PRINCIPAL, "uid=WebPortalAdmin,ou=People,dc=du,dc=ae");
+        env.put(Context.SECURITY_CREDENTIALS, "tqc@1234");
         try {
             connection = new InitialDirContext(env);
             System.out.println("tqcMajorDuWriteLDAPConnection! " + connection);

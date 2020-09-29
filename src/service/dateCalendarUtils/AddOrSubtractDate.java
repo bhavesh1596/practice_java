@@ -5,7 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
-public class DateParseTest {
+public class AddOrSubtractDate {
     public static void main(String args[]) throws ParseException {
       /* String dob = "15-14-2";
        SimpleDateFormat sf = new SimpleDateFormat("dd-MM-yyyy");
@@ -20,11 +20,11 @@ public class DateParseTest {
         Calendar c = null;
         if(yyyymmddParsedDate.before(new Date())){
 
-           c  = Calendar.getInstance();
+            c  = Calendar.getInstance();
             c.setTime((yyyymmddParsedDate));
         }
         else {
-             c = Calendar.getInstance();
+            c = Calendar.getInstance();
             c.setTime((yyyymmddParsedDate));
             c.add(Calendar.MONTH,-1);
 
