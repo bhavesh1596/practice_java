@@ -12,7 +12,9 @@ public class AddOrSubtractDate {
         sf.setLenient(false);
         Date parseDate =sf.parse(dob);
         System.out.println(parseDate);*/
-
+        Calendar cc = Calendar.getInstance();
+        cc.add(Calendar.DATE,30);
+        System.out.println("After 30 days from today "+ cc.getTime());
         String date = "30/09/2020";
         String datePattern = "dd/MM/yyyy";
         Date yyyymmddParsedDate = parseDate(date,datePattern);
